@@ -1,1 +1,19 @@
-
+def diamond(n):
+    all = []
+    for i in range(n):
+        alines=' '*(n-i-1)
+        alines+='*'*(2*i+1)
+        all.append(alines)
+    for i in range(n-2,-1,-1):
+        blines=' '*(n-1-i)
+        blines+='*' * (2 * i + 1)
+        all.append(blines)
+def run():
+    try:
+        with open('input.txt','r') as input:
+            n = int(input.read().strip())      
+        diamond =diamond(n)
+        with open('output.txt', 'w') as output:
+            output.write(diamond)        
+        print("Diamond pattern written to output text")
+run()
