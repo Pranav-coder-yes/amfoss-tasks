@@ -1,1 +1,9 @@
+def write():
+    try:
+        with open('input.txt', 'r') as input:
+            c=input()
+        with open('output.txt', 'w') as output:
+            output.write(c)
+        print("Text written to output.txt")
+read_and_write()
 
