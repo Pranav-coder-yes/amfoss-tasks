@@ -1,14 +1,14 @@
 GENERAL THINGS I DID BEFORE STARTING THE TASK
 
 
-Studied few general commands like ls,tree,cd etc
+Studied few general commands like ls,tree,cd etc.
 I have cloned the repository with git clone command and i have created a Hankbook directory using mkir command.I have entered Arrakis-dex using cd command. 
 
 
 PART 1
 
 
-Firstly to check my surroundings i have used the ls command.For hiding from 'Vortex of Desolution' i have went inside the file 'Eolian Caves'(Cus i need a roof over my head)
+Firstly to check my surroundings i have used the ls command.For hiding from 'Vortex of Desolution' i have went inside the file 'Eolian Caves'(Cus i need a roof over my head).
 I have used ls command to see my surroundings and used tree command to find a file called 'parchment' and opned it with cat command and stored the details in the Handbook using nano command,before that i have runned 'medaillon' python file using python3 method.
 
 I found no difficulties in this part
@@ -27,7 +27,7 @@ PART 3
 
 Switched the realm to Dark Branch 1 first using the git checckout method and then found a 'chest.py' python file using tree method and runned it using python3 command and enetered the code of 'Celestail Veil Amulet.txt' and finished the program.Then a text file appered in the same file so i opened it and found the code for Chest 1,copied it to the Handbook using nano method.Then i switched the realm to Dark Branch 2 using git checkout method and did the same thing to find out the Chest 2 code and copied it to the Handbook using nano command.
 
-I found no difficuilties in this part
+I found no difficuilties in this part.
 
 
 PART 4
