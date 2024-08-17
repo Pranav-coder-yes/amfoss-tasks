@@ -1,3 +1,7 @@
+GENERAL THINGS I DID BEFORE STARTING THE TASK
+
+
+Studied few general commands like ls,tree,cd etc
 I have cloned the repository with git clone command and i have created a Hankbook directory using mkir command.I have entered Arrakis-dex using cd command. 
 
 
