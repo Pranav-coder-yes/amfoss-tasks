@@ -35,7 +35,7 @@ PART 4
 
 Combined the codes from the previous part and decoded it and found out it was a link to GitHub repository called 'GodSuit'.Cloned this repository using git clone command.
 
-I found a little bit of difficulities in finding which were the code so, I went into the GitHub(from Chrome) and then searched for GodSuit repository and it showed up(Cus it is a public repository and hd the same Author) I took the Https link and encoded it 😁
+I found a little bit of difficulities in finding which were the code so, I went into the GitHub(from Chrome) and then searched for GodSuit repository and it showed up(Cus it is a public repository and hd the same Author) I took the Https link and encoded it 😁.
 But i rechecked it with the codes and found out the 4 codes used encoding it.
 
 
