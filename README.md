@@ -10,3 +10,7 @@
 3. What are your fields of interest, and how do you plan on working on them?
 
    Web designing is my passion,I have started learning CSS,javascript and HTML for it.
+
+| Task List | Description | Status |
+| --------- | ------------| -------|
+| Task-00 | Linux Installation | Completed|
