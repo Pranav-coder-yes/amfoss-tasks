@@ -13,4 +13,14 @@
 
 | Task List | Description | Status |
 | --------- | ------------| -------|
-| Task-00 | Linux Installation | Completed|
+| Task-00 | Linux Installation | Completed |
+| Task-01 | Type Maestro | Completed |
+| Task-02 | Terminal Chaos | Completed |
+| Task-03 | Hello, World! | Partially Completed |
+| Task-04 | Gopal and PagePal | Partially Completed |
+| Task-05 | Terminal Trolly | Just started | 
+| Task-06 | Open Docs | Going to Complete |
+| Task-07 | Pirate's Dilemma | Not Attempted |
+| Task-08 | Blog Burst | Going to Complete |
+| Task-09 | Hero-Dex! | Not Attempted |
+| Task-10 | Operation Pixel Merge | Partially Compelted |
