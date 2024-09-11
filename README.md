@@ -1,4 +1,4 @@
-# amfoss-tasks
+# AMFOSS-TASKS
 ---
 # Why should we choose you?
 
