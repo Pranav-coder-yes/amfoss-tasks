@@ -1,5 +1,6 @@
 # **DIRECTORY STRUCTURE OF DJANGO**
 .
+
 |-home_test
 
 
