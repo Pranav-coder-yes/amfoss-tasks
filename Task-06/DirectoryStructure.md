@@ -1,12 +1,14 @@
 # **DIRECTORY STRUCTURE OF DJANGO**
-# Directory Structure of Django Todo List
 
 ```
 .
+├── home_test
+├── mysite
+├── static
+├──.gitignore
+├── README.md
 ├── db.sqlite3
 ├── manage.py
-├── README.md
-├── todolist
 │   ├── __init__.py
 │   ├── __init__.pyc
 │   ├── settings.py
