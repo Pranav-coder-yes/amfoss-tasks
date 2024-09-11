@@ -13,7 +13,7 @@
 
 | Task List | Description | Status |
 | --------- | ------------| -------|
-| Task-00 | Linux Installation | Completed |
+| [Task-00](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-00) | Linux Installation | Completed |
 | Task-01 | Type Maestro | Completed |
 | Task-02 | Terminal Chaos | Completed |
 | Task-03 | Hello, World! | Partially Completed |
