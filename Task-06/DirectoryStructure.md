@@ -7,4 +7,3 @@
 |-README.md
 |-db.sqlite3
 |-manage.py
----
