@@ -3,6 +3,22 @@
 ```
 .
 ├── home_test
+│   ├── _pycache_
+│   ├── migrations
+│   ├── templates
+│   ├── __init__.py
+│   ├── __init__.pyc
+│   ├── admin.py
+│   ├── admin.pyc
+│   └── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── models.pyc
+│   ├── tests.py
+│   ├── urls.py
+│   ├── urls.pyc
+│   └── views.py
+│   ├── views.pyc
 ├── mysite
 ├── static
 ├──.gitignore
