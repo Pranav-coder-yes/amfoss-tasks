@@ -30,5 +30,5 @@
 | [Task-06](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-06) | Open Docs | Going to Complete |
 | [Task-07](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-07) | Pirate's Dilemma | Not Attempted |
 | [Task-08](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-08) | Blog Burst | Going to Complete |
-| [Task-09](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-09) | Hero-Dex! | Not Attempted |
+| [Task-09](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-09) | Hero-Dex! | Only Installed |
 | [Task-10](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-10) | Operation Pixel Merge | Partially Compelted |
