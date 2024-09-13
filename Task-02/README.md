@@ -8,7 +8,7 @@ I have cloned the repository with git clone command and i have created a Handboo
 # PART 1
 
 
-Firstly to check my surroundings i used the ls command.For hiding from 'Vortex of Desolution' i went inside the file 'Eolian Caves'(Cus i need a roof over my head).
+Firstly to check my surroundings i used the ```ls``` command.For hiding from 'Vortex of Desolution' i went inside the file 'Eolian Caves'(Cus i need a roof over my head).
 I then used ls command to see my surroundings and used tree command to find a file called 'parchment' and opned it with cat command and stored the details in the Handbook using nano command,before that i have runned 'medaillon' python file using python3 method.
 
 I found no difficulties in this part
