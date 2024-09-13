@@ -1,8 +1,8 @@
 # Linux Installation
 ---
 
-Successfully Installed Linux and dual booted with Ubuntu.
+*Successfully Installed Linux and dual booted with Ubuntu.
 
-I did not face any problems while dual booting
+*I did not face any problems while dual booting
 
 ---
