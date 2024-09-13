@@ -1,7 +1,4 @@
  ![image](https://github.com/user-attachments/assets/0493905d-4465-4bc2-89c8-6b3e5bfa0204)
-
-![Uploading image.png…]()
-
 ---
 
 # Why should we choose you?
