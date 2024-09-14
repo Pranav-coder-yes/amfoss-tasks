@@ -3,19 +3,19 @@
 
 # Why should you choose me?
 
-###  I like to contribute to the community and share my knowledge and experience with them.I like to learn new things about open source.
+I like to contribute to the community and share my knowledge and experience with them.I like to learn new things about open source.
 
 ---
 
 # How I intend to contribute back to the club?
 
-### By teaching others and sharing my knowledge.
+By teaching others and sharing my knowledge.
 
 ---
 
 # What are my fields of interest, and how I plan on working on them?
 
-###   Web designing is my passion,I have started learning CSS,javascript and HTML for it and am gonna start by gathering information about it.
+Web designing is my passion,I have started learning CSS,javascript and HTML for it and am gonna start by gathering information about it.
 
 ---
 
