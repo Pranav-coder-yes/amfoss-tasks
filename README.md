@@ -27,8 +27,8 @@
 | [Task-03](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-03) | Hello, World! | Partially Completed |
 | [Task-04](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-04) | Gopal and PagePal | Partially Completed |
 | [Task-05](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-05) | Terminal Trolly | Just started | 
-| [Task-06](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-06) | Open Docs | Going to Complete |
+| [Task-06](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-06) | Open Docs | Completed |
 | [Task-07](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-07) | Pirate's Dilemma | Not Attempted |
-| [Task-08](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-08) | Blog Burst | Going to Complete |
+| [Task-08](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-08) | Blog Burst | Completed |
 | [Task-09](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-09) | Hero-Dex! | Only Installed |
 | [Task-10](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-10) | Operation Pixel Merge | Partially Compelted |
