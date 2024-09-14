@@ -1,4 +1,4 @@
-# Documnetation for Django 
+# Documnetation for Django Expense Tracker
 
 ---
 
