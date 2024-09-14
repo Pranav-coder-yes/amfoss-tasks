@@ -1,21 +1,21 @@
  ![image](https://github.com/user-attachments/assets/0493905d-4465-4bc2-89c8-6b3e5bfa0204)
 ---
 
-# Why should we choose you?
+# Why should you choose me?
 
 ###  I like to contribute to the community and share my knowledge and experience with them.I like to learn new things about open source.
 
 ---
 
-# How do you intend to contribute back to the club?
+# How I intend to contribute back to the club?
 
 ### By teaching others and sharing my knowledge.
 
 ---
 
-# What are your fields of interest, and how do you plan on working on them?
+# What are my fields of interest, and how I plan on working on them?
 
-###   Web designing is my passion,I have started learning CSS,javascript and HTML for it.
+###   Web designing is my passion,I have started learning CSS,javascript and HTML for it and am gonna start by gathering information about it.
 
 ---
 
