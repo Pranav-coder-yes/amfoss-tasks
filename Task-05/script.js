@@ -1,7 +1,6 @@
 const terminalOutput = document.querySelector('.terminal-output');
 const terminalInput = document.querySelector('input[type="text"]');
 
-// Listen for user input and handle commands
 function checkInput(event) {
     if (event.key === 'Enter') {
         const command = terminalInput.value.trim();
@@ -9,7 +8,6 @@ function checkInput(event) {
     }
 }
 
-// Handle user input commands
 function handleInput(command) {
     switch (command.toLowerCase()) {
         case 'help':
