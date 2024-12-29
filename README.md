@@ -20,7 +20,7 @@ Web designing is my passion,I have started learning CSS,javascript and HTML for 
 
 | Task List | Description | Status |
 | --------- | ------------| -------|
-| [Task-00](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-00) | Linux Installation |   |
+| [Task-00](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-00) | Linux Installation | Completed |
 | [Task-01](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-01) | The Command line cup |  |
 | [Task-02](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-02) | Pixelated problem solver |  |
 | [Task-03](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-03) | Beat the buttons |  |
