@@ -25,7 +25,7 @@ Web designing is my passion,I have started learning CSS,javascript and HTML for 
 | [Task-2](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-02) | Pixelated problem solver | Completed |
 | [Task-3](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-03) | Beat the buttons | Completed |
 | [Task-4](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-04) | Code the puzzles |  |
-| [Task-5](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-05) | Pokemon rescue |  | 
+| [Task-5](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-05) | Pokemon rescue | Partially Completed | 
 | [Task-6](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-06) | Flutter jumpstart |  |
 | [Task-7](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-07) | Weather guardian | Completed |
 | [Task-8](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/Task-08) | Compute shader |  |
