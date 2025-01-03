@@ -1,5 +1,5 @@
 ---
-- # Task-1 The command line cup
+# Task-1 The command line cup
 ---
 
 # Steps i did for Step-1
