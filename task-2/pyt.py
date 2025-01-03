@@ -2,7 +2,7 @@ import pytesseract
 from PIL import Image
 
 # Open the image (ensure that the WebP format is supported by Pillow)
-img = Image.open('image3.png')
+img = Image.open('image1.png')
 
 # Specify the correct path to the Tesseract executable
 pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'  # Correct path to Tesseract executable
