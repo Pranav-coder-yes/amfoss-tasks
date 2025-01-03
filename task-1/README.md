@@ -46,11 +46,11 @@
 
 # Steps for pushing the files from local machine to repository
 
-1. Assuming we have set up an SSH in our local machine and added it to our repository.Since its a private repository for making any changes we need to set up and SSH key or any another keys.
-2. Aftering seting all up clone the repository in our local machine
-3. aftering doing the changes in the files we need to first add the changes into our repository, for example if we have created a directory named "task-0" we cant leave the directory empty as git wont recogonize it as a file we need to either add contents or a README.md file or .gitignore file.
-4. After adding the file go the main directory i.e the "task-0" and then write the command `git add .` where . means everything inside that directory or we can add seperatly also using the command `git add <filename>`.
-5. After adding we need to commit it to the github repository for this we can use the command `git commit -m "<any message for commiting>"` where -m used for message.
-6. after this we need to push the contents into the repository using the command `git push origin main`.
+## 1. Assuming we have set up an SSH in our local machine and added it to our repository.Since its a private repository for making any changes we need to set up and SSH key or any another keys.
+## 2. Aftering seting all up clone the repository in our local machine
+## 3. aftering doing the changes in the files we need to first add the changes into our repository, for example if we have created a directory named "task-0" we cant leave the directory empty as git wont recogonize it as a file we need to either add contents or a README.md file or .gitignore file.
+## 4. After adding the file go the main directory i.e the "task-0" and then write the command `git add .` where . means everything inside that directory or we can add seperatly also using the command `git add <filename>`.
+## 5. After adding we need to commit it to the github repository for this we can use the command `git commit -m "<any message for commiting>"` where -m used for message.
+## 6. after this we need to push the contents into the repository using the command `git push origin main`.
 
 --- 
