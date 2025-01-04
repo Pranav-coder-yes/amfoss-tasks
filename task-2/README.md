@@ -31,11 +31,12 @@ sudo apt install tesseract-ocr`
 6.As there is 2 images, you can check with both the images.Just change the name of the image.(If image is not in the same directory then u need to specify the full locaiton of the image)
 
 ## Note: Make sure that tesseract installs in the default location or you need to change its location.
-         The default location for tesseract to install is
 
-        Ubuntu:`/usr/bin/tesseract`
-        Windows:`C:\Program Files\Tesseract-OCR\tesseract.exe`
-        Mac OS:`/usr/local/bin/tesseract`
+The default location for tesseract to install is
+
+Ubuntu:`/usr/bin/tesseract`
+Windows:`C:\Program Files\Tesseract-OCR\tesseract.exe`
+Mac OS:`/usr/local/bin/tesseract`
 
 You can find the location of the tesseract using the command, `which tesseract` or for windows its `where tesseract`
 
