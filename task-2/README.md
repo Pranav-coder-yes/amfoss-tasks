@@ -35,7 +35,9 @@ sudo apt install tesseract-ocr`
 The default location for tesseract to install is
 
 Ubuntu:`/usr/bin/tesseract`
+
 Windows:`C:\Program Files\Tesseract-OCR\tesseract.exe`
+
 Mac OS:`/usr/local/bin/tesseract`
 
 You can find the location of the tesseract using the command, `which tesseract` or for windows its `where tesseract`
