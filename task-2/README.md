@@ -13,7 +13,7 @@ We should install an virtual enviroment in-order to make this work.Steps to inst
 
 3.To create a virtual enviroment in your system use the command, `python3 -m venv <env_name>`.(Make sure to create the virtual enviroment in the same directory as the file)
 
-4.In order to activate the irtual enviroment in your system use the command, `source <env_name>/bin/activate`.
+4.In order to activate the virtual enviroment in your system use the command, `source <env_name>/bin/activate`.
 
 ---
 
