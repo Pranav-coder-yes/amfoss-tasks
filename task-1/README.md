@@ -23,21 +23,21 @@ Determined the values of x and y and they are 3 and 2. So the spell is located a
 
 ---
 
-#Steps did for Step-4 (Third Challange)
+# Steps did for Step-4 (Third Challange)
 ---
 
 The subject taught by Professor Lupin at Hogwarts was `defenseAgainstTheDarkArts` and i have seen this name in the branchs when i did the command `git branch -a`. I moved into that branch using the command `git checkout defenseAgainstTheDarkArts`. Found out the solution for the riddle and it was `Riddikulux`. Found the same name in the spellbook. Since its present in another branch i moved the file into the main branch.Firstly we need to type the command from the main branch spellbook. After going to the main branch spellbook directory i used the command `git checkout <remote branch> <Relative path of the file to be copied from the other branch>`.Ran the file now and found out the secret code. Saved this secret code in the Part_3.txt file in the directory "codes".
 
 ---
 
-#Steps did for Step-5 (Fourth Challange)
+# Steps did for Step-5 (Fourth Challange)
 ---
 
 Firstly i used to the command `git log` to checkout the commit logs of that repository.On the 27th july commit i found another puzzle to solve. Found out the values for x and y and they are 7 and 4. So the spell was located in the 07th directory and Spell_04.txt but in thegraveyard. So i `git checkout thegraveyard` and went into the file location, ran the file and found out the spell and went unsde the spellbook and i did the same steps in step-4 as git checking out it to the main file and running it. Saved the code in the Part_4.txt file in the directory "codes".
 
 ---
 
-#Steps did for Step-6 (End)
+# Steps did for Step-6 (End)
 ---
 
 Firstly i created a new file called "finalcode.txt" where i pasted all the codes together in the directory "codes". Then i decoded the file which was encoded in base64 using the command `echo <contents in the finalcode.txt> | base64 --decode`. Found another GitHub repository link so i git cloned it to the local machine. Ran the text file and python and i got the congratulation screen.
