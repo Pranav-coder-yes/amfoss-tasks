@@ -6,6 +6,6 @@ I have done few of the hacker rank questions and did not get the solutions for t
 
 ---
 
-HackerRank Username:@mpranav0505
+HackerRank Username:<b>@mpranav0505<\b>
 
 ---
