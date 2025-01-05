@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Weather_Application",
+  "version": "3.0",
+  "description": "A simple chrome extension for checking the Weather of a location",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
