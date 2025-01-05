@@ -1,5 +1,5 @@
 ---
-# Task-3 (Beat the buttons)
+# Task-3 ---- Beat the buttons
 ---
 
 This task is about creating a html page of a working drum set containing 4 toms,crash,kick-bass and snare
