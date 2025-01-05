@@ -1,5 +1,9 @@
 ---
-# Task-2 (Pixelated Problem solver)
+# Task-2 ---- Pixelated Problem solver
+---
+
+It scans an simple allgebraic expression like 2+2 and outputs the answer.
+
 ---
 
 ## Steps before running the python program.
