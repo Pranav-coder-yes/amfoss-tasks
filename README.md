@@ -24,7 +24,7 @@ Web designing is my passion,I have started learning CSS,javascript and HTML for 
 | [Task-1](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-1) | The Command line cup | Completed |
 | [Task-2](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-2) | Pixelated problem solver | Completed |
 | [Task-3](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-3) | Beat the buttons | Completed |
-| [Task-4](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-4) | Code the puzzles |  |
+| [Task-4](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-4) | Code the puzzles | Prtially Completed |
 | [Task-5](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-5) | Pokemon rescue | Completed | 
 | [Task-6](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-6) | Flutter jumpstart |  |
 | [Task-7](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-7) | Weather guardian | Completed |
