@@ -35,8 +35,9 @@ We should install an virtual enviroment in-order to make this work.Steps to inst
 
 `pip install pillow`
 
-`sudo apt update
-sudo apt install tesseract-ocr`
+`sudo apt update`
+
+`sudo apt install tesseract-ocr`
 
 5.Now run the file "pyt.py" using the command `python3 pyt.py`
 
