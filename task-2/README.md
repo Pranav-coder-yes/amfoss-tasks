@@ -11,7 +11,7 @@ It scans an simple allgebraic expression like 2+2 and outputs the answer.
 We should install an virtual enviroment in-order to make this work.Steps to install an virtual machine.
 
 1.Make sure you have installed the latest version of python.
-`python --version`
+`python3 --version`
 
 2.Install the venv module by using the command, `sudo apt install python3-venv`
 
