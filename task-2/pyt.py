@@ -10,7 +10,6 @@ g=[]
 text = pytesseract.image_to_string(img)
 for i in text:
 	l.append(i)
-print(l)
 g.append(l[0])
 g.append(l[2])
 print(int(g[0])+int(g[1]))
