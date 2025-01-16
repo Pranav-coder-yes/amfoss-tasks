@@ -1,9 +1,0 @@
-certifi
-charset-normalizer
-idna
-PySide6
-PySide6-Addons
-PySide6-Essentials
-requests
-shiboken6
-urllib3
