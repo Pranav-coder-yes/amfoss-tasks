@@ -10,11 +10,13 @@ This is a app for finding the imformation of a pokemon and capturing it.
 
 1.First clone this repository using the command,`git clone <html code of the repository>`.
 
-2.Then you should create a virtual enviroment and enable it. (I will put the details to do it below)
+2.Then you should unzip the the file, "task-5" using the command `unzip <file name>`.
 
-3.Then you should download the required libraries in the text file.You can seperatly download it or use the command,`pip install -r requirements.txt`.
+3.Then you should create a virtual enviroment and enable it. (I will put the details to do it below)
 
-4.Now go into the 'src' directory using the command,`cd src` and run the main.py using the command,`python3 main.py`.
+4.Then you should download the required libraries in the text file.You can seperatly download it or use the command,`pip install -r requirements.txt`.
+
+5.Now go into the 'src' directory using the command,`cd src` and run the main.py using the command,`python3 main.py`.
 
 ---
 # Installing virtual enviroment
