@@ -26,7 +26,7 @@ Web designing is my passion,I have started learning CSS,JavaScript and HTML for 
 | [Task-3](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-3) | Beat the buttons | Completed |
 | [Task-4](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-4) | Code the puzzles | Partially Completed |
 | [Task-5](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-5) | Pokemon rescue | Completed | 
-| [Task-6](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-6) | Flutter jump start |  |
+| [Task-6](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-6) | Flutter jump start | Not Completed |
 | [Task-7](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-7) | Weather guardian | Completed |
-| [Task-8](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-8) | Compute shader |  |
-| [Task-9](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-9) | Operation Kernel |  |
+| [Task-8](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-8) | Compute shader | Not Completed |
+| [Task-9](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-9) | Operation Kernel | Not Completed |
