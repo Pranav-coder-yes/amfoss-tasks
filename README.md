@@ -29,4 +29,4 @@ Web designing is my passion,I have started learning CSS,JavaScript and HTML for 
 | [Task-6](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-6) | Flutter jump start | Not Completed |
 | [Task-7](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-7) | Weather guardian | Completed |
 | [Task-8](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-8) | Compute shader | Not Completed |
-| [Task-9](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-9) | Operation Kernel | Not Completed |
+| [Task-9](https://github.com/Pranav-coder-yes/amfoss-tasks/tree/main/task-9) | Operation Kernel | Not Attempted |
