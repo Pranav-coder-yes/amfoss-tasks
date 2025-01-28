@@ -2,7 +2,7 @@
 # Task-7 ---- Weather Guardian
 ---
 
-It is a simple chrome extension used for finding out the weather of perticular place using the weather API.
+It is a simple chrome extension used for finding out the weather of particular place using the weather API.
 
 ---
 # How to make it work
@@ -20,6 +20,6 @@ It is a simple chrome extension used for finding out the weather of perticular p
 
 6.Click on the load unpacked and go the file location of manifest.json and click on it.
 
-7.Now its added to your extensiona and now you can use it.
+7.Now its added to your extension and now you can use it.
 
 ---
